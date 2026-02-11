@@ -1,0 +1,1 @@
+Rock, Paper, Scissors is a 2-player, hand-gesture game where Rock (fist) beats Scissors (V-sign), Scissors beats Paper (flat hand), and Paper beats Rock. Players simultaneously show their choice on the count of three; if shapes match, they replay. It is commonly used for dispute resolution or in best-of-three, five, or seven formats to determine a winner. 
